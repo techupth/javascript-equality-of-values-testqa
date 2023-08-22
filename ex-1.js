@@ -17,3 +17,6 @@ NaN === NaN;
 let objectA = { course: "Web Developer", price: 300000 };
 let objectB = { course: "Web Developer", price: 300000 };
 objectA === objectB;
+
+
+let test 
